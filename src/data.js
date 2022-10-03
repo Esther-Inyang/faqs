@@ -25,4 +25,5 @@ const questions = [
     info: "Phasellus non fermentum diam, sit amet imperdiet lorem. Sed dapibus gravida odio ac condimentum. Mauris accumsan congue velit suscipit mattis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. ",
   },
 ];
+
 export default questions;
